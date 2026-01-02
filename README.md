@@ -497,18 +497,4 @@ If you encounter any issues or have questions:
 
 ---
 
-## 📸 Screenshots Guide
 
-To add your screenshots to this README, save them in your repository and update the image paths:
-
-1. Create an `assets` or `images` folder in your repository root
-2. Save your screenshots there (e.g., `pipeline-execution.png`, `workflow-runs.png`)
-3. Replace the placeholder paths in this README:
-   - Replace `path/to/image1.png` with `assets/pipeline-execution.png`
-   - Replace `path/to/image2.png` with `assets/workflow-runs.png`
-
-**Example**:
-```markdown
-![Pipeline Execution Flow](assets/pipeline-execution.png)
-![Workflow Runs History](assets/workflow-runs.png)
-```
