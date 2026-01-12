@@ -1,4 +1,4 @@
-# GitHub Actions CI/CD Pipeline Project     
+# GitHub Actions CI/CD Pipeline Project      
 
 [![CI/CD Pipeline](https://github.com/divy1436/Github-Actions-Project-main/actions/workflows/cicd2.yml/badge.svg)](https://github.com/divy1436/Github-Actions-Project-main/actions/workflows/cicd2.yml)
 
